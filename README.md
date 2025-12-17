@@ -1,5 +1,5 @@
 
-> Abra esta pagina en [https://elias18614.github.io/piedra-papel-o-tijera/](https://elias18614.github.io/piedra-papel-o-tijera/)
+> Abra esta pagina en [https://elias18614.github.io/Piedra-papel-o-tijera/](https://elias18614.github.io/Piedra-papel-o-tijera/)
 
 
 
